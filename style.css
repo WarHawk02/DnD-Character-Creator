@@ -18,7 +18,7 @@ body::before {
   background-size: 1000px 1600px;
   
   background-position: center center;
-  opacity: 0; /* Adjust the opacity as needed for the overlay */
+  opacity: 0.3; /* Adjust the opacity as needed for the overlay */
   /* Add other styles to position the overlay */
   position: absolute;
   top: 0;
