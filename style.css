@@ -7,7 +7,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover; /* or "contain" as needed */
   background-attachment: fixed; /* This ensures the background doesn't move when scrolling */
-  color: brown;
+  color: black;
  position: relative;
 }
 
